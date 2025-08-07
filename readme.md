@@ -7,8 +7,11 @@ NOTE: (Testbench code may not work directly in the  simulation file because of h
 
 ## 🎥 Demo Videos: Two-Decade Counter (0–99)
 
-> Click on the links below to watch the FPGA implementation videos.
+### 🔹 Video 1
+[![Video 1](https://img.youtube.com/vi/KdcR2CzPaZE/0.jpg)](https://youtu.be/KdcR2CzPaZE)
 
-- [▶️ Video 1 – two-decade counter-1](./Spartan-7%20FPGA%20implementation/two-decade%20counter-1.mp4)
-- [▶️ Video 2 – two-decade counter-2](./Spartan-7%20FPGA%20implementation/two-decade%20counter-2.mp4)
-- [▶️ Video 3 – two-decade counter-3](./Spartan-7%20FPGA%20implementation/two-decade%20counter-3.mp4)
+### 🔹 Video 2
+[![Video 2](https://img.youtube.com/vi/kFkpY_b4SFY/0.jpg)](https://youtu.be/kFkpY_b4SFY)
+
+### 🔹 Video 3
+[![Video 3](https://img.youtube.com/vi/Kv-dMW-clic/0.jpg)](https://youtu.be/Kv-dMW-clic)
